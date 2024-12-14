@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grammify.pro/sitemap.xml
